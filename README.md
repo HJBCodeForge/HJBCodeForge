@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henning&show_icons=true&locale=en&layout=compact" alt="henning" /></p>
 
-<p><img align="center" src="https://gravatar.com/festivalsoftly4c2acd8e70" alt="henning" /></p>
+<p><img align="center" src="profileImage.png" alt="henning" /></p>
