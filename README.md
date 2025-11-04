@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/HJBCodeForge/HJBCodeForge/main/assets/header-banner.png" alt="Henning Botha - Passionate Software Developer Banner"/> </div>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/HJBCodeForge/HJBCodeForge/main/assets/header-banner.png" alt="Henning Botha - Passionate Software Developer Banner"/> </div> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henningbotha/" target="_blank">
