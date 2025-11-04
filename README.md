@@ -39,7 +39,7 @@
 <p><img align="center" src="profileImage.png" alt="henning" /></p> -->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=henning&label=Profile%20views&color=0e75b6&style=flat" alt="Henning Botha - Passionate Software Developer Banner"/> </div>
 
-<div align="center"> <a href="https://linkedin.com/in/henning-botha" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/hjbcodeforge" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> <a href="https://henning-botha-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
+<div align="center"> <a href="www.linkedin.com/in/henningbotha" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/hjbcodeforge" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> <a href="https://henning-botha-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hjbcodeforge&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" /> </div>
 
